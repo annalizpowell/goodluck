@@ -1,0 +1,100 @@
+/*index page*/
+
+.images { 
+    width: 40%;
+}
+
+#ski { 
+    left: 10px; 
+    margin: 20px; 
+    float: left; 
+}
+
+.fam { 
+    left: 10px; 
+    margin: 20px; 
+    float: left; 
+}
+
+.hair { 
+    left: 10px; 
+    margin: 20px; 
+    float: left;
+}
+
+.sunset { 
+    margin: 20px; 
+    float: left; 
+}
+
+.amanda { 
+    right: 10px; 
+    margin: 20px; 
+    float: left; 
+}
+
+
+
+.mountain { 
+    right: 10px; 
+    margin: 20px; 
+    float: left; 
+}
+
+
+
+
+
+#main /*custom background in body*/ { 
+    display: flex; 
+    flex-wrap: wrap;
+    background-color: rgb(212, 212, 212);
+}
+
+/*all pages*/
+footer { 
+    background-image: url(../images/clouds.jpeg);
+    background-size: 100%; 
+    margin-top: 50px; 
+}
+
+a:visited {
+    text-decoration:none; 
+    color: black; 
+}
+
+/*about page*/
+.background { 
+    background-color: beige;
+}
+
+#main { 
+    width: 80%; 
+    margin-bottom: 50px; 
+    margin-top: 50px;
+}
+
+.contact { 
+    border: 15px solid rgb(146, 204, 255);
+    padding: 20px; 
+    margin: 20px; 
+    background-color: white;
+}
+
+.mainabout { 
+    border: 15px solid black; 
+    padding: 20px;
+    margin: 20px; 
+}
+
+.skivid { 
+    width: 80%; 
+    margin: 20px; 
+    padding: 10px; 
+}
+
+
+
+
+
+
